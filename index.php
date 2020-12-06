@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fa">
 
@@ -19,14 +18,13 @@
 </head>
 
 <body data-spy="scroll" data-target="#scrollspy" data-offset="1" class="rtl flat-demo">
-    
+
     <div id="overlayer"></div>
     <span class="loader"></span>
 
 
     <!-- Portfolio Single Modal Start -->
-    <div class="portfolio-single modal fade" id="portfolio-single" tabindex="-1" role="dialog"
-        aria-labelledby="portfolioModalScrollable" aria-hidden="true">
+    <div class="portfolio-single modal fade" id="portfolio-single" tabindex="-1" role="dialog" aria-labelledby="portfolioModalScrollable" aria-hidden="true">
         <div class="modal-dialog modal-dialog-scrollable" role="document">
             <div class="modal-content text-muted">
                 <div class="modal-header">
@@ -51,7 +49,7 @@
                                         <div class="col-md-4">
                                             <div class="text-center">
                                                 <div>
-                                              
+
                                                 </div>
                                             </div>
                                         </div>
@@ -102,8 +100,7 @@
     <!--  Portfolio Single Modal End  -->
 
     <!-- Blog Single Modal Start -->
-    <div class="blog-single modal fade" id="blog-single" tabindex="-1" role="dialog"
-        aria-labelledby="blogModalScrollable" aria-hidden="true">
+    <div class="blog-single modal fade" id="blog-single" tabindex="-1" role="dialog" aria-labelledby="blogModalScrollable" aria-hidden="true">
         <div class="modal-dialog modal-dialog-scrollable" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -171,29 +168,22 @@
                                                         <div class="row">
                                                             <div class="col-lg-6 form-item">
                                                                 <div class="form-group">
-                                                                    <input name="name" id="blog-name" type="text"
-                                                                        class="form-control" placeholder="نام *"
-                                                                        required>
+                                                                    <input name="name" id="blog-name" type="text" class="form-control" placeholder="نام *" required>
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 form-item">
                                                                 <div class="form-group">
-                                                                    <input name="email" id="blog-email" type="email"
-                                                                        class="form-control" placeholder="ایمیل *"
-                                                                        required>
+                                                                    <input name="email" id="blog-email" type="email" class="form-control" placeholder="ایمیل *" required>
                                                                 </div>
                                                             </div>
                                                             <div class="col-12 form-item">
                                                                 <div class="form-group">
-                                                                    <textarea name="comments" id="blog-comments"
-                                                                        rows="4" class="form-control"
-                                                                        placeholder="پیام..."></textarea>
+                                                                    <textarea name="comments" id="blog-comments" rows="4" class="form-control" placeholder="پیام..."></textarea>
                                                                 </div>
                                                             </div>
                                                             <div class="col-sm-12 mt-4 text-left">
                                                                 <div class="button-border">
-                                                                    <button type="submit" class="pill-button"
-                                                                        id="blog-submit-btn">ارسال پیام</button>
+                                                                    <button type="submit" class="pill-button" id="blog-submit-btn">ارسال پیام</button>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -257,7 +247,7 @@
                                 </li>
                                 <li data-menuanchor="blog" class="list-group-item"><a href="#blog">وبلاگ</a></li>
 
-                                <li data-menuanchor="client" class="list-group-item"><a href="#testimonial">ارتباط با
+                                <li data-menuanchor="client" class="list-group-item"><a href="#contact">ارتباط با
                                         الف رادیولوژی</a>
                                 </li>
                             </ul>
@@ -268,25 +258,24 @@
                                         خیابان مقدس اردبیلی روبروی پالادیوم، ساختمان پیراسته،پلاک 81 <br>طبقه 3
                                         واحد32
                                     </span></li>
-                                <li class="list-group-item"><span>021-22400362<i
-                                            class="lni-phone-handset ml-1"></i></span>
+                                <li class="list-group-item"><span>021-22400362<i class="lni-phone-handset ml-1"></i></span>
                                 </li>
-                                <li class="list-group-item"><span>contact@alefradiologycom<i
-                                            class="lni-envelope ml-1"></i></span>
+                                <li class="list-group-item"><span>contact@alefradiologycom<i class="lni-envelope ml-1"></i></span>
                                 </li>
-                                <li class="list-group-item"><span>مسیر های ارتباطی :</span></li>
-                                <li class="list-group-item">
-                                    <ul class="list-inline socails">
-                                        <li class="list-inline-item"><a href="#"><i class="lni-facebook-filled"></i></a>
-                                        </li>
-                                        <li class="list-inline-item"><a href="#"><i class="lni-twitter-filled"></i></a>
-                                        </li>
-                                        <li class="list-inline-item"><a href="#"><i class="lni-github-original"></i></a>
-                                        </li>
-                                        <li class="list-inline-item"><a href="#"><i
-                                                    class="lni-linkedin-original"></i></a></li>
-                                    </ul>
-                                </li>
+                                <div class="d-none">
+                                    <li class="list-group-item"><span>مسیر های ارتباطی :</span></li>
+                                    <li class="list-group-item">
+                                        <ul class="list-inline socails">
+                                            <li class="list-inline-item"><a href="#"><i class="lni-facebook-filled"></i></a>
+                                            </li>
+                                            <li class="list-inline-item"><a href="#"><i class="lni-twitter-filled"></i></a>
+                                            </li>
+                                            <li class="list-inline-item"><a href="#"><i class="lni-github-original"></i></a>
+                                            </li>
+                                            <li class="list-inline-item"><a href="#"><i class="lni-linkedin-original"></i></a></li>
+                                        </ul>
+                                    </li>
+                                </div>
                             </ul>
                         </div>
                     </div>
@@ -313,8 +302,7 @@
                         <div class="hero-content text-center">
                             <h1 class="dark-color mb-0 mt-3">دکتر مهسا خادمی</h1>
                             <h3 class="dark-color text-capitalize mb-3"><span class="base-color ml-1 ">الف رادیولوژی
-                                </span><span class="element"
-                                    data-elements="تصویر برداری تخصصی درون و برون دهان , تصویر برداری تخصصی فک و صورت "></span>
+                                </span><span class="element" data-elements="تصویر برداری تخصصی درون و برون دهان , تصویر برداری تخصصی فک و صورت "></span>
                                 </h1>
                                 <p class=" mx-auto mt-4 dark-color">
                                     در رادیولوژی الف ، رادیوگرافی های درون و بیرون دهان و همچنین سی تی اسکن فک و صورت
@@ -350,8 +338,7 @@
                         </div>
                         <div class="row">
                             <!--   Portfolio Filters   -->
-                            <ul id="portfolio-filter"
-                                class="list-unstyled list-inline mb-0 col-lg-12 text-center portfolio-filter">
+                            <ul id="portfolio-filter" class="list-unstyled list-inline mb-0 col-lg-12 text-center portfolio-filter">
                                 <li class="button-border list-inline-item">
                                     <a href="#" data-filter="*" class="pill-button active">همه</a>
                                 </li>
@@ -379,9 +366,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -402,9 +387,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -425,9 +408,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -448,9 +429,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -471,9 +450,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -494,9 +471,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -517,9 +492,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -540,9 +513,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -566,9 +537,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -590,9 +559,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -614,9 +581,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -638,9 +603,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -662,9 +625,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -686,9 +647,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -862,9 +821,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -884,9 +841,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -904,9 +859,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -924,9 +877,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -946,9 +897,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/aalef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -969,9 +918,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -990,9 +937,7 @@
                                         <div class="img-overlay text-center">
                                             <div class="img-overlay-content">
                                                 <div class="portfolio-icon">
-                                                    <button type="button" data-toggle="modal"
-                                                        data-target="#portfolio-single"><i
-                                                            class="lni-link"></i></button>
+                                                    <button type="button" data-toggle="modal" data-target="#portfolio-single"><i class="lni-link"></i></button>
                                                     <a href="ax/alef/1.jpg" class="js-zoom-gallery">
                                                         <i class="lni-search"></i>
                                                     </a>
@@ -1039,8 +984,7 @@
                                             از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و
                                             مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
                                             کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. "</p>
-                                        <span class="d-block font-weight-bold text-dark mt-3">علی انصاری<small
-                                                class="text-muted"> مدیریت سایت</small></span>
+                                        <span class="d-block font-weight-bold text-dark mt-3">علی انصاری<small class="text-muted"> مدیریت سایت</small></span>
                                     </div>
                                     <!-- Testimonial Item-02 -->
                                     <div class="testimonial-item box-border">
@@ -1053,8 +997,7 @@
                                             از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و
                                             مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
                                             کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. "</p>
-                                                <span class="d-block font-weight-bold text-dark mt-3">دانیال رفیعی<small
-                                                class="text-muted"> مدیریت سایت</small></span>
+                                        <span class="d-block font-weight-bold text-dark mt-3">دانیال رفیعی<small class="text-muted"> مدیریت سایت</small></span>
                                     </div>
                                     <!-- Testimonial Item-03 -->
                                     <div class="testimonial-item box-border">
@@ -1067,8 +1010,7 @@
                                             از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و
                                             مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و
                                             کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. "</p>
-                                        <span class="d-block font-weight-bold text-dark mt-3">زهراابراهیمی،<small
-                                                class="text-muted"> طراح وب</small></span>
+                                        <span class="d-block font-weight-bold text-dark mt-3">زهراابراهیمی،<small class="text-muted"> طراح وب</small></span>
                                     </div>
                                 </div>
                             </div>
@@ -1112,13 +1054,11 @@
                                                 <span class="text-muted">5</span>
                                             </li>
                                         </ul>
-                                        <h6 class="mb-3"><a class="text-dark" href="javascript:void(0)" target="_blank"
-                                                data-toggle="modal" data-target="#blog-single">رایدوگرافی چیست؟</a></h6>
+                                        <h6 class="mb-3"><a class="text-dark" href="javascript:void(0)" target="_blank" data-toggle="modal" data-target="#blog-single">رایدوگرافی چیست؟</a></h6>
                                         <p class="text-dark">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و
                                             با استفاده از طراحان گرافیک است.</p>
                                         <div class="blog-link">
-                                            <a class="base-color" href="javascript:void(0)" target="_blank"
-                                                data-toggle="modal" data-target="#blog-single">ادامه مطلب...</a>
+                                            <a class="base-color" href="javascript:void(0)" target="_blank" data-toggle="modal" data-target="#blog-single">ادامه مطلب...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1142,14 +1082,12 @@
                                                 <span class="text-muted">3</span>
                                             </li>
                                         </ul>
-                                        <h6 class="mb-3"><a class="text-dark" href="javascript:void(0)" target="_blank"
-                                                data-toggle="modal" data-target="#blog-single">نکات بهداشتی</a>
+                                        <h6 class="mb-3"><a class="text-dark" href="javascript:void(0)" target="_blank" data-toggle="modal" data-target="#blog-single">نکات بهداشتی</a>
                                         </h6>
                                         <p class="text-dark">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و
                                             با استفاده از طراحان گرافیک است.</p>
                                         <div class="blog-link">
-                                            <a class="base-color" href="javascript:void(0)" target="_blank"
-                                                data-toggle="modal" data-target="#blog-single">ادامه مطلب...</a>
+                                            <a class="base-color" href="javascript:void(0)" target="_blank" data-toggle="modal" data-target="#blog-single">ادامه مطلب...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1173,14 +1111,12 @@
                                                 <span class="text-muted">8</span>
                                             </li>
                                         </ul>
-                                        <h6 class="mb-3"><a class="text-dark" href="javascript:void(0)" target="_blank"
-                                                data-toggle="modal" data-target="#blog-single">پروتز فک و صورت</a>
+                                        <h6 class="mb-3"><a class="text-dark" href="javascript:void(0)" target="_blank" data-toggle="modal" data-target="#blog-single">پروتز فک و صورت</a>
                                         </h6>
                                         <p class="text-dark">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و
                                             با استفاده از طراحان گرافیک است.</p>
                                         <div class="blog-link">
-                                            <a class="base-color" href="javascript:void(0)" target="_blank"
-                                                data-toggle="modal" data-target="#blog-single">ادامه مطلب...</a>
+                                            <a class="base-color" href="javascript:void(0)" target="_blank" data-toggle="modal" data-target="#blog-single">ادامه مطلب...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1203,9 +1139,9 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">
-                    
+
                                 <div class="title-content">
-                                    <h2 >ارتباط با <span class="base-color"> الف رادیو لوژی</span></h2>
+                                    <h2>ارتباط با <span class="base-color"> الف رادیو لوژی</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -1254,14 +1190,12 @@
                                     <div class="row">
                                         <div class="col-lg-6 form-item">
                                             <div class="form-group">
-                                                <input name="name" id="name" type="text" class="form-control"
-                                                    placeholder="نام*" required>
+                                                <input name="name" id="name" type="text" class="form-control" placeholder="نام*" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-6 form-item">
                                             <div class="form-group">
-                                                <input name="email" id="email" type="email" class="form-control"
-                                                    placeholder="شماره تماس*" required>
+                                                <input name="email" id="email" type="email" class="form-control" placeholder="شماره تماس*" required>
                                             </div>
                                         </div>
                                         <!-- <div class="col-12 form-item">
@@ -1272,20 +1206,16 @@
                                         </div> -->
                                         <div class="col-12 form-item">
                                             <div class="form-group">
-                                                <textarea name="comments" id="comments" rows="4" class="form-control"
-                                                    placeholder="پیام..."></textarea>
+                                                <textarea name="comments" id="comments" rows="4" class="form-control" placeholder="پیام..."></textarea>
                                             </div>
                                         </div>
                                         <div class="col-sm-12 mt-4 text-left">
                                             <div class="button-border">
-                                                <a href="javascript:void(0)" class="pill-button" id="submit-btn"
-                                                    onclick="sendEmail()">ارسال پیام</a>
+                                                <a href="javascript:void(0)" class="pill-button" id="submit-btn" onclick="sendEmail()">ارسال پیام</a>
                                             </div>
-                                            <div id="message" class="toast" role="alert" aria-live="assertive"
-                                                aria-atomic="true" data-delay="4000">
+                                            <div id="message" class="toast" role="alert" aria-live="assertive" aria-atomic="true" data-delay="4000">
                                                 <div class="toast-body d-inline-block"></div>
-                                                <button type="button" class="pr-3 close" data-dismiss="toast"
-                                                    aria-label="Close">
+                                                <button type="button" class="pr-3 close" data-dismiss="toast" aria-label="Close">
                                                     <span aria-hidden="true" class="lni-close size-xs "></span>
                                                 </button>
                                             </div>
@@ -1320,8 +1250,8 @@
     <script src="assets/js/khademi.js"></script>
 
 
-    
-  
+
+
     <script type="text/javascript">
         var myMap = new L.Map('map', {
             key: 'web.93Hbd2f3tcjnSLHDf3B3eGYDwiGWILQPtRJcKD1v',
