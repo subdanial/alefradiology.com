@@ -262,20 +262,26 @@
                                 </li>
                                 <li class="list-group-item"><span>contact@alefradiologycom<i class="lni-envelope ml-1"></i></span>
                                 </li>
-                                <div class="d-none">
-                                    <li class="list-group-item"><span>مسیر های ارتباطی :</span></li>
-                                    <li class="list-group-item">
-                                        <ul class="list-inline socails">
-                                            <li class="list-inline-item"><a href="#"><i class="lni-facebook-filled"></i></a>
-                                            </li>
-                                            <li class="list-inline-item"><a href="#"><i class="lni-twitter-filled"></i></a>
-                                            </li>
-                                            <li class="list-inline-item"><a href="#"><i class="lni-github-original"></i></a>
-                                            </li>
-                                            <li class="list-inline-item"><a href="#"><i class="lni-linkedin-original"></i></a></li>
-                                        </ul>
-                                    </li>
-                                </div>
+                                <li class="list-group-item"><span>مسیر های ارتباطی :</span></li>
+                                <li class="list-group-item">
+                                    <ul class="list-inline socails">
+                                        <li class="list-inline-item"><a href="#"><i class="fa fa-whatsapp"></i></a>
+                                        </li>
+                                        <li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                        <li class="list-inline-item"><a href="#"><i class="fa fa-telegram"></i></a>
+                                        </li>
+                                        <li class="list-inline-item"><a href="#"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
+                                </li>
+
+
+
+
+
+
+
+
                             </ul>
                         </div>
                     </div>
